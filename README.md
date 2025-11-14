@@ -4,15 +4,6 @@
 
 <br/>
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Building%20Real%20Systems-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Style-Minimalist-333?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=mugishastev&color=555&style=flat-square" />
-</p>
-
-<br/>
-
 ---
 
 ## 🌐 About Me
