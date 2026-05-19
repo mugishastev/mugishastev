@@ -1,13 +1,13 @@
 <!-- TITLE -->
 <h1 align="center"><strong>Mugisha Steven</strong></h1>
-<p align="center">Full-Stack & Mobile Developer • Kigali, Rwanda</p>
+<p align="center">Backend & Mobile Developer • Kigali, Rwanda</p>
 
 <br/>
 
 ---
 
 ## 🌐 About Me
-I’m a full-stack and mobile developer focused on building **real systems** — the kind people actually use, not demo apps.
+I’m a Backend and mobile developer focused on building **real systems** — the kind people actually use, not demo apps.
 
 I prioritize:
 - Clean architecture  
@@ -22,19 +22,21 @@ If it doesn’t solve a real problem, I don’t build it.
 ## 🛠 Tech Stack
 
 ### **Frontend**
-React · Vite · TailwindCSS · TypeScript
+React/next · Vite · TailwindCSS · TypeScript
 
 ### **Backend**
-Node.js · Express · Prisma
+Node.js ·nestjs· fastify · Prisma
 
 ### **Databases**
 PostgreSQL · MySQL
+MongoDB    · Nosql
 
 ### **Mobile**
 React Native
 
 ### **Tools**
 Docker · Git · GitHub · Postman · Windows
+IDE: Antigravity  · Vs Code · Cursor
 
 ---
 
@@ -61,6 +63,12 @@ User authentication, CRUD operations, status control, and a clean UI.
 ### 🌐 **Developer Portfolio**
 Showcasing my projects, skills, and development philosophy.  
 **Live:** https://mugisha-steven.vercel.app
+
+---
+
+## 🌐 **himate chat**
+develop the realtime chatting system ,with firebase,redis, neon
+**live:** https://himatechat.vercel.app/
 
 ---
 
